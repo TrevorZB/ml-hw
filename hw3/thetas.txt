@@ -1,0 +1,5 @@
+after 70,000 iterations:
+  theta: [-0.5334428,   2.75141467, -0.01618011, -0.33762346, -0.1458185,   0.00960426]
+  log_likelihood: -403.4567757667006
+
+(other people have gotten log_likelihood = -394)
